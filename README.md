@@ -1,4 +1,4 @@
-<h1 align="center">Hello 👋 I'm MASOOD MIRZA</h1>
+<h1 align="center">Hello 👋 I'm MASOOD</h1>
 
 <p align="center">
   <b>📊 Data Analyst | 💼 Business Analyst | 🐍 Python Developer | 📈 Tableau & ML Enthusiast</b>
